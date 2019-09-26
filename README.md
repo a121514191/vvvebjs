@@ -39,10 +39,6 @@ https://github.com/givanz/VvvebJs
 ![](https://github.com/a121514191/vvvebjs/blob/master/error2.PNG)
 
 
-*google-cloud
-1. https://github.com/givanz/VvvebJs
-*kubernetes
-2. https://kubernetes.io/docs/tasks/tools/install-kubectl/
 
 
 
